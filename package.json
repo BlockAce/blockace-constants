@@ -1,0 +1,8 @@
+{
+  "name": "constants",
+  "version": "1.0.0",
+  "description": "BlockAce constants",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}

@@ -1,5 +1,5 @@
 {
-  "name": "constants",
+  "name": "blockace-constants",
   "version": "1.0.0",
   "description": "BlockAce constants",
   "main": "index.js",

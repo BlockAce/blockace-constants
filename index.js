@@ -1,5 +1,5 @@
 const DOLLARS = 100;
-const PRICE = 1 * DOLLARS;
+const PRICE = 20 * DOLLARS;
 
 module.exports = {
   PRICE: PRICE

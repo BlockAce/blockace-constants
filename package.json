@@ -1,6 +1,6 @@
 {
   "name": "blockace-constants",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BlockAce constants",
   "main": "index.js",
   "license": "MIT",
